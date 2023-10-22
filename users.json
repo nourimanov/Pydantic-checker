@@ -1,0 +1,20 @@
+[
+  {
+    "username": "JustUser",
+    "password": "HelloW0rld_",
+    "age": "21",
+    "phone": "+998999000009"
+  },
+  {
+    "username": "HeroUser",
+    "password": "HelloW0rld_",
+    "age": "22",
+    "phone": "+998978990001"
+  },
+  {
+    "username": "SimpleUser",
+    "password": "HelloW0rld_",
+    "age": "23",
+    "phone": "+998948990300"
+  }
+]
