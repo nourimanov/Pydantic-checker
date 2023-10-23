@@ -59,3 +59,4 @@ class User(BaseModel):
 
 check_users = [User(**user) for user in json.load(open("users.json"))]
 print(check_users)
+ 
