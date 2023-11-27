@@ -8,7 +8,7 @@ from pydantic import (
 '''
 Opened a file called users.json to test using the project!
 '''
-                       
+                        
 
 class User(BaseModel):
     username: str
